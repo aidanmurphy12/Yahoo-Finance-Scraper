@@ -1,5 +1,4 @@
 # Yahoo-Finance-Scraper
-# Yahoo Finance Scraper
 
 ## Overview
 
